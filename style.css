@@ -1,0 +1,90 @@
+body {
+
+    background-color: rgba(70, 215, 225, 0.788);
+    font-family: sans-serif;
+    
+    
+    }
+
+    header{
+        background-color: hsl(173, 50%, 86%);
+        color: rgb(0, 0, 0);
+        border-radius: 10px;
+        text-align: center;
+        padding: 20px;
+        border-radius: 10px;
+    }
+
+    section{
+
+        background-color: rgb(134, 197, 233);
+        border-radius: 10px;
+        max-width: 100%;
+        padding: 25px;
+        margin: 25px;
+        }
+
+    .HTML{
+        background-color: rgb(235, 195, 147);
+        border-radius: 30px;
+        max-width: 100%;
+        padding: 30px;
+        margin: 25px;
+    }   
+
+    .CSS{
+        background-color: rgb(250, 235, 215);
+        border-radius: 30px;
+        max-width: 100%;
+        padding: 30px;
+        margin: 25px;
+
+    }
+    
+    
+
+    .etiqueta{
+        background-color: rgb(235, 195, 147);
+        border-radius: 30px;
+        max-width: 100%;
+        padding: 30px;
+        margin: 25px;
+    }
+
+    .VS{
+        background-color: rgb(220, 199, 174);
+        border-radius: 30px;
+        max-width: 100%;
+        padding: 30px;
+        margin: 25px;
+    }
+    .VISUAL{
+        width: 10%;
+        padding: 10%;
+    }
+    .use{
+        background-color: rgb(235, 225, 213);
+        border-radius: 30px;
+        max-width: 100%;
+        padding: 30px;
+        margin: 25px;
+    }
+
+    footer{
+        background-color: rgb(201, 237, 233);
+        color: rgb(0, 0, 0);
+        border-radius: 10px;
+        text-align: center;
+        padding: 20px;
+        border-radius: 10px;
+    }
+
+
+
+
+
+
+
+
+
+    
